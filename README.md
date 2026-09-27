@@ -141,7 +141,15 @@ digital twin placed right at the centre of the experience.
 
 ### Enhanced web interface
 
-![Enhanced UI with Digital Twin](5.jpeg)
+![Enhanced UI - view 1](web%201.jpeg)
+
+<br>
+
+![Enhanced UI - view 2](web2.jpeg)
+
+<br>
+
+![Enhanced UI - view 3](web3.jpeg)
 
 *The digital twin, network map and optimization results brought together in one
 dashboard, so a planner can run a "what if" scenario and see the impact without
