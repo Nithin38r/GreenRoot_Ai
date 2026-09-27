@@ -33,6 +33,7 @@
 - [The problem](#-the-problem)
 - [What GreenRoute-AI does](#-what-greenroute-ai-does)
 - [Screenshots](#-screenshots)
+- [Version 2 — Enhanced UI with Digital Twin](#-version-2--enhanced-ui-with-digital-twin)
 - [Architecture](#-architecture)
 - [The algorithms — and why each one](#-the-algorithms--and-why-each-one)
 - [Quick start](#-quick-start)
@@ -127,6 +128,40 @@ a grey badge.*
 re-optimization. Simulated outcomes are labelled as simulated throughout.*
 
 </div>
+
+---
+
+## 🆕 Version 2 — Enhanced UI with Digital Twin
+
+We built GreenRoute-AI in two stages. Version 1 was the working core. Version 2
+kept the same engine underneath and added a new, polished website with the
+digital twin placed right at the centre of the experience.
+
+<div align="center">
+
+### Enhanced web interface
+
+![Enhanced UI with Digital Twin](5.jpeg)
+
+*The digital twin, network map and optimization results brought together in one
+dashboard, so a planner can run a "what if" scenario and see the impact without
+switching screens.*
+
+</div>
+
+<br>
+
+### What changed from Version 1 to Version 2
+
+| | Version 1 — Core platform | Version 2 — Enhanced UI |
+|---|---|---|
+| **Focus** | Backend engine: optimization, routing, carbon, ML models | Same engine, plus a redesigned user-facing website |
+| **Digital twin** | Available through the API and a basic scenario view | Front and centre in the UI, with live simulation and re-optimization shown visually |
+| **Interface** | Functional console for testing the models | Cleaner, more visual dashboard built for demos and real users |
+| **Files** | `FINAL1.zip` | `FINAL2_WITH_UI_DEVELOPEMENT.zip` + `GreenRoute_Enhanced_version_UI.html` |
+
+> **Try it quickly:** open `GreenRoute_Enhanced_version_UI.html` in a browser to
+> preview the enhanced interface without setting up the full backend.
 
 ---
 
